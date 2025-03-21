@@ -1,13 +1,20 @@
-Name=Bhanu
+#!/bin/bash
+
+# Assigning values
+Name="Bhanu"
 Age=$1
 Institution=$2
 
-echo "Hi, I am $Name, age $Age, studying at $Institution"
+# Displaying initial details
+echo "Hi, I am $Name, age $Age, studying at $Institution."
 
-echo "enter your favorite movie"
+# Taking user input
+echo "Enter your favorite movie:"
 read fav_movie
 
-echo "enter your favorite sport"
+echo "Enter your favorite sport:"
 read fav_sport
 
-echo "My favorite movie is $fav_movie and favorite sport is $fav_sport"
+# Displaying user input
+echo "My favorite movie is $fav_movie and my favorite sport is $fav_sport."
+
