@@ -1,0 +1,1 @@
+Hey, I am starting to learn linux, shell-scripting and git-tools
