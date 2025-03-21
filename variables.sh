@@ -6,9 +6,9 @@ Institution=$2
 echo "Hi, I am $Name, age $Age, studying at $Institution"
 
 echo "enter your favorite movie"
-read fav_movie
+read -s fav_movie 
 
 echo "enter your favorite sport"
-read-s fav_sport
+read -s fav_sport
 
 echo "My favorite movie is $fav_movie and favorite sport is $fav_sport"
