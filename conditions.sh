@@ -6,7 +6,7 @@ read age
 
 if [ $age -ge 18 ]
 then 
-    echo "You are eligible for driving license"
+    echo "You are eligible for a driving license"
 else
-    echo "You are not eligible for driving license"
+    echo "You are not eligible for a driving license"
 fi
